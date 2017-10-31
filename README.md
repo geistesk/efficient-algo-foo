@@ -7,3 +7,5 @@ algorithms from the *Efficient Algorithms* lecture.
 
 - 0. Introduction
     - `fib.py`: Two implementations for the Fibonacci numbers
+- 1. Basics
+    - `stable-matching.py`: Stable Matching (Gale, Shapley)
