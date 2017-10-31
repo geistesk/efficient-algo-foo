@@ -10,3 +10,5 @@ algorithms from the *Efficient Algorithms* lecture.
 - 1. Basics
     - `stable-matching.py`: Stable Matching (Gale, Shapley)
     - `graphs.py`: Simple graph representation, DFS
+- 2. Greedy algorithm
+    - `interval-scheduling.py`: Greates subset of overlapping intervals
