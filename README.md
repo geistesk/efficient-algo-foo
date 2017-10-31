@@ -9,3 +9,4 @@ algorithms from the *Efficient Algorithms* lecture.
     - `fib.py`: Two implementations for the Fibonacci numbers
 - 1. Basics
     - `stable-matching.py`: Stable Matching (Gale, Shapley)
+    - `graphs.py`: Simple graph representation, DFS
