@@ -5,4 +5,5 @@ algorithms from the *Efficient Algorithms* lecture.
 
 ## Structure
 
-nothing to see here
+- 0. Introduction
+    - `fib.py`: Two implementations for the Fibonacci numbers
